@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/kushabk/pen/ZLOqRG.
+A Pen created at CodePen.io. You can see the demo in the below link
 
- Indian_state pure html table 
+https://kusha-b-k.github.io/IndianStateS-Table/
